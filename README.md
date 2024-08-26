@@ -14,22 +14,22 @@ Features
 
 Sections : 
 
-* Motion
-    Move in horizontal and vertical direction
-    Rotate (Clockwise and Anti-Clockwise)
-    Goto coordinate
-* Looks
-    You want your sprint to say some message
-    Show Message for some duration
-    Thinking ability to Sprint
-    Think for some defined time
-    Disappear thoughts
-    Show Sprint
-    Hide Sprint
+- Motion
+    * Move in horizontal and vertical direction
+    * Rotate (Clockwise and Anti-Clockwise)
+    * Goto coordinate
+- Looks
+    * You want your sprint to say some message
+    * Show Message for some duration
+    * Thinking ability to Sprint
+    * Think for some defined time
+    * Disappear thoughts
+    * Show Sprint
+    * Hide Sprint
 
-* Events
-    Broadcast a Message (Notification)
+- Events
+    * Broadcast a Message (Notification)
 
-* Control
-    Wait for some duration
-    Repeat certain functions for speicified amount of times
+- Control
+    * Wait for some duration
+    * Repeat certain functions for speicified amount of times
